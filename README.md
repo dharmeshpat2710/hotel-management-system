@@ -150,12 +150,6 @@ BE Information Technology
 C. K. Pithawala College of Engineering & Technology  
 Gujarat Technological University (GTU)
 
-🌐 Portfolio: https://your-portfolio-link.netlify.app
-
-💼 LinkedIn: https://linkedin.com/in/your-linkedin
-
-📧 Email: dharmeshpat2710@gmail.com
-
 ---
 
 ## ⭐ If you like this project
